@@ -10,3 +10,7 @@
 
 # Knit folder
 src/shared/Knit/**
+
+# Selene files
+roblox.toml
+selene.toml
