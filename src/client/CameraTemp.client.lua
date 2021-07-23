@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 
 local Player = Players.LocalPlayer
 
-wait(2)
+wait(3)
 
 local CurrentCamera = workspace.CurrentCamera
 
